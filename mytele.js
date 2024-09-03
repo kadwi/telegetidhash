@@ -2,7 +2,7 @@ const axios = require('axios');
 const readline = require('readline');
 const cheerio = require('cheerio'); // Untuk parsing HTML
 const fs = require('fs'); // Modul untuk operasi file
-
+//script by kadw
 // URL endpoint Telegram
 const urlRequestPassword = 'https://my.telegram.org/auth/send_password';
 const urlLogin = 'https://my.telegram.org/auth/login';
